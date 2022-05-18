@@ -4,7 +4,4 @@ body {
 p {
     color: #702323;
 }
-h2  {
-    font-size: 50px;
-}
-//komment
+h2 { text-shadow: #169dbe;}
